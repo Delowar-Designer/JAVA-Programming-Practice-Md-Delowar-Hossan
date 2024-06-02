@@ -1,0 +1,7 @@
+public class 1 JAVA Variables Simplified
+{
+  public static void main(String [] args)
+  {
+    int Num = 58; 
+  }
+}
