@@ -1,0 +1,27 @@
+import java.util.Scanner;
+public class Java7User_Input
+{
+  public static void main(String [] args)
+  {
+      Scanner sc = new Scanner(System.in);
+//    System.out.println("Plesae Ennter a Number");
+//    int num1 = sc.nextInt();
+//    System.out.println(num1);
+//    
+//    System.out.println("Plesae Ennter a Fractional Number");
+//    double num2 = sc.nextDouble();
+//    System.out.println(num2);
+//    
+//    System.out.println("Plesae Ennter a Boolean Number");
+//    boolean num3 = sc.nextBoolean();
+//    System.out.println(num3);
+   
+      System.out.println("Plesae Ennter a String");
+      String s1 = sc.nextLine();
+      System.out.println(s1);
+    
+      System.out.println("Plesae Ennter2 a String");
+      String s2 = sc.next();
+      System.out.println(s2);
+  }
+}
