@@ -1,0 +1,8 @@
+import java.util.Scanner;
+public class Java17_String_details
+{
+  public static void main (String [] args)
+ {
+    
+ }
+}
