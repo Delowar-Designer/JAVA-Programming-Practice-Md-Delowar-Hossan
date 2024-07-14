@@ -9,10 +9,16 @@ public class Java_OOP4_Access_and_Modiflcation
     s1.id = "23";
     s2.name = "Joty";
     s2.id = "24";
-    System.out.println(s1.name);
-    System.out.println(s1.id);
-    System.out.println(s2.name);
-    System.out.println(s2.id);
+    System.out.println(s1.name+" " +s1.id);
+    System.out.println(s2.name+" " +s2.id);
+    s1 = s2;
+    s1.name = "Developer Delowar";
+    System.out.println(s1.name+" " +s1.id);
+    System.out.println(s2.name+" " +s2.id);
+//    System.out.println(s1.name);
+//    System.out.println(s1.id);
+//    System.out.println(s2.name);
+//    System.out.println(s2.id);
   }
 } 
 
