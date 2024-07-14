@@ -1,4 +1,5 @@
-public class myDesign
+public class Student
 {
-  
+  public String nam;
+  public String id;
 }
