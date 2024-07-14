@@ -1,0 +1,8 @@
+public class Java_OOP3_Intro_to_Class and_Objects
+{
+  public static void main (String []args)
+  {
+   System.out.println("OOP"); 
+  }
+} 
+
