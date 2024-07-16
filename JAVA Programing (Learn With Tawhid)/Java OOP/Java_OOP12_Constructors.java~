@@ -1,0 +1,13 @@
+public class Java_OOP11_Method_Overloading_and_Comprehensive
+{
+  public static void main(String []args)
+  {
+    Student2 s1 = new Student2();
+    Student2 s2 = new Student2();
+    s1.name = "Bob";
+    s1.id = 11;
+    s2.name = "Carol";
+    s2.id = 33;
+  }
+}
+
