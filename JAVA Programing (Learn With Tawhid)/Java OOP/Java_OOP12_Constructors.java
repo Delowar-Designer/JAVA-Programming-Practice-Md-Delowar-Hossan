@@ -4,8 +4,12 @@ public class Java_OOP12_Constructors
   {
     Student2 s1 = new Student2("Mitu", 12);
     Student2 s2 = new Student2("Joty", 15);
+    Student2 s3 = new Student2();
+    Student2 s4 = new Student2("David", 15, 4.9);
     s1.showDetail();
     s2.showDetail();
+    s3.showDetail();
+    s4.showDetail();
 //    Student2 s1 = new Student2();
 //    System.out.println(s1);
 //    s1 = new Student2();
