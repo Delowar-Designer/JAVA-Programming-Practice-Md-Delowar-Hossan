@@ -1,0 +1,10 @@
+public class Cat2
+{
+  public String color;
+  public String action = "sitting";
+  
+  public void details(){
+    System.out.println(color+" cat is "+action);
+    
+  }
+}
